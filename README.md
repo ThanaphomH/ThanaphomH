@@ -45,6 +45,6 @@
 
 <br /> <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanaphomh&show_icons=true&locale=en&layout=compact" alt="thanaphomh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanaphomh&show_icons=true&theme=dark&locale=en&layout=compact" alt="thanaphomh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanaphomh&show_icons=true&locale=en" alt="thanaphomh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanaphomh&show_icons=true&theme=dark&locale=en" alt="thanaphomh" /></p>
