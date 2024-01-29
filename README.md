@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanaphom Hirunyathon</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A passionate developer from Thailand</h3>
 
 -   🌱 I’m currently studying at **Chulalongkorn University**
 
