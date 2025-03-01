@@ -68,7 +68,7 @@
 
 <br />
 
-<h1>Github Stats</h1>
+<h2>Github Stats</h2>
 
 <br />
 
